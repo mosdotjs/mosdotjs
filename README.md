@@ -71,8 +71,3 @@
 </p>
 
 ---
-
-### :sparkles: About Me
-:bulb: I love learning new technologies and building real-world projects.  
-:handshake: Open to collaborations and tech discussions.  
-:earth_africa: Interested in **cloud computing, APIs, and scalable systems**.  
