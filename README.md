@@ -2,12 +2,6 @@
 <h1 align="center">Hi, I'm Mylena :moyai:</h1>
 <h3 align="center">Full-Stack Developer :rocket:</h3>
 
-<p align="center">
-  :seedling: Passionate about building web applications <br/>
-  :zap: Currently diving into <strong>Node.js, Next.js, MongoDB & AWS</strong><br/>
-  :dart: Goal: Grow as a <strong>Full-Stack Developer</strong>
-</p>
-
 ---
 
 ### :link: Connect with me
