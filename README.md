@@ -2,8 +2,6 @@
 <h1 align="center">Hi, I'm Mylena :moyai:</h1>
 <h3 align="center">Full-Stack Developer :rocket:</h3>
 
----
-
 ### :link: Connect with me
 <p align="left">
   <a href="https://dev.to/mylenaoliveiras" target="_blank">
