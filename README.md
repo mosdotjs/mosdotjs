@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi, I'm Mylena :moyai:</h1>
-<h3 align="center">Front-End Developer | Future Full-Stack Engineer :rocket:</h3>
+<h3 align="center">Full-Stack Developer :rocket:</h3>
 
 <p align="center">
   :seedling: Passionate about building web applications <br/>
